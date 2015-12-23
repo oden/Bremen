@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":101,"indent":0,"parameters":["",0,2,1]},{"code":401,"indent":0,"parameters":["むかしむかしあるところにロバ、犬、ネコ、ニワトリがいて、"]},{"code":401,"indent":0,"parameters":["音楽家をめざし旅をしていましたが、"]},{"code":401,"indent":0,"parameters":["途中で泥棒の家を見つけたのでそこを奪って楽しく暮らしました。"]},{"code":0,"indent":0,"parameters":[]}],"name":"昔々","switchId":1,"trigger":1},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
